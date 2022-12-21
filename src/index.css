@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+section h2 {
+  font-size: 5rem;
+  margin-bottom: 2rem;
+}
+
+.secondary-section{
+  background-color: #b5b5b5;
+}
